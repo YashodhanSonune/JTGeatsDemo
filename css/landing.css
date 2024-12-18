@@ -1,0 +1,33 @@
+#landing {
+  background-color: #1ac073;
+  color: #fff;
+}
+
+#header {
+  display: flex;
+  align-items: center;
+
+  padding-top: 1.63rem;
+  padding-bottom: 1.88rem;
+  padding-left: 9.13rem;
+  padding-right: 8.13rem;
+}
+
+#logo {
+  display: flex;
+  font-family: "Squada One", sans-serif;
+  font-size: 2rem;
+}
+
+#navigation {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  gap: 2.5rem;
+  margin-left: 21.16rem;
+}
+
+#search_cart {
+  display: flex;
+  gap: 2rem;
+  margin-left: 16.06rem;
+}
