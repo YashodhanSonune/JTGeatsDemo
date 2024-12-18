@@ -31,3 +31,50 @@
   gap: 2rem;
   margin-left: 16.06rem;
 }
+
+#below_header {
+  display: flex;
+  padding-top: 10.63rem;
+  padding-left: 8.25rem;
+  padding-right: 9.02rem;
+  font-family: "Roboto", sans-serif;
+  gap: 6.75rem;
+}
+
+#some_text {
+  font-size: 4.38rem;
+}
+
+#some_text2 {
+  margin-top: 2rem;
+}
+
+#text-box {
+  padding: 0.63rem;
+}
+
+#search_bar {
+  display: flex;
+  height: 3.63rem;
+  width: 24.88rem;
+}
+
+#search_text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #929292;
+  background-color: #fff;
+  padding-left: 1.38rem;
+  padding-top: 1.19rem;
+  padding-bottom: 1.19rem;
+  padding-right: 8rem;
+}
+
+#search_button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f3ba00;
+  padding: 1.19rem 2rem;
+}
