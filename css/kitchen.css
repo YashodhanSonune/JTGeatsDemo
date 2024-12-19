@@ -9,3 +9,8 @@
   font-size: 2.5rem;
   margin-bottom: 3.938rem;
 }
+
+.food {
+  display: flex;
+  justify-content: space-between;
+}
