@@ -1,0 +1,58 @@
+#popular_text {
+  font-size: 2.5rem;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+}
+
+#popular_items {
+  margin-top: 5rem;
+}
+
+.arrow {
+  width: 4.469rem;
+  height: 4.469rem;
+  border: solid 0.188rem #1ac073;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrow_flex {
+  display: flex;
+  align-items: center;
+}
+
+#arrow_left {
+  margin-right: 0.4rem;
+}
+
+#arrow_right {
+  margin-left: 0.4rem;
+  transform: rotate(180deg);
+}
+
+#food_circular {
+  display: flex;
+  gap: 3.188rem;
+  margin-top: 2.313rem;
+  margin-left: 8.125rem;
+  margin-right: 8.125rem;
+}
+
+#request_a_dish {
+  display: flex;
+  justify-content: center;
+}
+
+#request_button {
+  margin-top: 5.438rem;
+  background-color: #1ac073;
+  width: 13.125rem;
+  height: 3rem;
+  color: #f0faf7;
+  font-weight: 600;
+  border-radius: 0.313rem;
+  margin-bottom: 5rem;
+}
