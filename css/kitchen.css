@@ -14,3 +14,20 @@
   display: flex;
   justify-content: space-between;
 }
+
+.food_card {
+  background-color: #f0faf7;
+}
+
+.food:not(:first-child) {
+  margin-top: 2.5rem;
+}
+
+.fd_inner {
+  padding: 0.97rem;
+}
+
+.detail1 {
+  display: flex;
+  gap: 5rem;
+}
