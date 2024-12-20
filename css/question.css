@@ -1,0 +1,107 @@
+#question_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 39.5rem;
+  background-color: #f7f8fa;
+}
+
+#main_container {
+  display: flex;
+  width: 73.813rem;
+  height: 27rem;
+  gap: 2.875rem;
+}
+
+.q_big_text {
+  font-size: 1.5rem;
+}
+
+.q_small_text {
+  color: #1b1c21;
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+#name_and_email {
+  display: flex;
+  margin-top: 2rem;
+  gap: 1rem;
+}
+
+.ne_container {
+  height: 3.625rem;
+  width: 18.75rem;
+  background-color: #fff;
+  border-radius: 0.625rem;
+}
+
+.ne {
+  padding-left: 1.375rem;
+  padding-bottom: 1.188rem;
+  padding-top: 1.188rem;
+}
+
+#message {
+  margin-top: 1.563rem;
+}
+
+#msg_container {
+  height: 10.25rem;
+  width: 38.563rem;
+  background-color: #fff;
+  border-radius: 0.625rem;
+}
+
+#msg {
+  padding-left: 1.375rem;
+  padding-top: 1.188rem;
+}
+
+#submit_button {
+  margin-top: 1.375rem;
+  background-color: #1ac073;
+  height: 3.625rem;
+  width: 13.125rem;
+  border-radius: 0.625rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#submit {
+  color: #fff;
+}
+
+#bottom_navi {
+  height: 6.813rem;
+  width: 100%;
+  background-color: #1ac073;
+  color: #fff;
+}
+
+#footer_container {
+  padding-top: 0.188rem;
+  padding-bottom: 0.75rem;
+  padding-left: 8.125rem;
+  padding-right: 8.125rem;
+}
+
+#header_bottom {
+  display: flex;
+}
+
+#logo_bottom {
+  display: flex;
+  font-family: "Squada One", sans-serif;
+  font-size: 2rem;
+}
+
+#navigation_bottom {
+  display: flex;
+  gap: 2.5rem;
+  margin-left: 19.563rem;
+  font-size: 1.125rem;
+  margin-top: 0.438rem;
+}

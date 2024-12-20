@@ -21,6 +21,7 @@
 
 #navigation {
   display: flex;
+  font-size: 1.125rem;
   gap: 2.5rem;
   margin-left: 21.16rem;
 }
