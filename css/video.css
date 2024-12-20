@@ -50,6 +50,7 @@
 #play_button {
   position: absolute;
   margin-top: 11rem;
+  z-index: 3;
 }
 
 #green_background {
@@ -60,4 +61,9 @@
   height: 21.5rem;
   background-color: #c7eacc;
   z-index: 1;
+}
+
+#arrow_right_play {
+  margin-left: 0.4rem;
+  transform: rotate(180deg);
 }
